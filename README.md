@@ -33,9 +33,6 @@ After this, the project will be running on your localhost. Typically at http://l
 ## Help
 
 Make sure to connect your metamask wallet to the owner account of your deployed hardhat node.
-```
-pragma solidity ^0.8.18
-```
 
 ## Authors
 
